@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edward
+- 👋 Hi, I’m @edm101
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning software design
 - 💞️ I’m looking to collaborate on design projects
